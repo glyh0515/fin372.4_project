@@ -1,1 +1,3 @@
-# fin372.4_project
+# Backlogs and Future Earnings
+
+This study has found that changes in Current Deferred Revenue (DRC) without an extreme increase in Long TermLiabilities (LT) is positively associated with higher stock prices in the next month. The evidence found in the study suggests that using DRC/LT in a long-only portfolio leads to positive alpha (4.744% annualised). Additionally, the backtest results suggest that the strategy performs exceptionally in supply-side recessions.
