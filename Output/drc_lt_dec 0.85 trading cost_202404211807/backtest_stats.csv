@@ -1,0 +1,19 @@
+,0
+arith mean,0.009374145
+arith mean (ann),0.112489742
+geomean mean,0.006416176
+geomean mean (ann),0.079770109
+sigma,0.076697183
+sigma (ann),0.265686834
+avg drawdown,0.235036516
+max drawdown,0.684807025
+alpha,0.002796
+alpha SE,0.002806934
+alpha (ann),3.36%
+alpha SE (ann),0.033683203
+beta,1.320579852
+betaSE,0.06018449
+Sharpe ratio,0.12222281
+Sharpe ratio (ann),0.423392233
+information ratio,0.036455056
+information ratio (ann),0.126284018
