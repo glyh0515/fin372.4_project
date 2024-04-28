@@ -2,3 +2,5 @@
 monthly_returns.csv
 *.pptx
 *.docx
+Global Data.dta
+global_deferred.dta
