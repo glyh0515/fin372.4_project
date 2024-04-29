@@ -1,0 +1,14 @@
+Statistic,Result
+Arithmetic Mean (ann),4.246%
+Geomean Mean (ann),3.530%
+Sigma (ann),12.536%
+Average Drawdown,18.743%
+Max Drawdown,48.191%
+Alpha (ann),4.667%
+Alpha SE (ann),2.652%
+Alpha (CI),"[2.015, 7.319]"
+Beta,-0.065
+Beta SE,0.047
+Beta (CI),"[-0.112, -0.0174]"
+Sharpe Ratio (ann),0.339
+Information Ratio (ann),0.372

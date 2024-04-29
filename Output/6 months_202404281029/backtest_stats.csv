@@ -1,0 +1,14 @@
+Statistic,Result,,,,,,,,,,,,,,,
+Arithmetic Mean (ann),0.149%,,,,,,,,,,,,,,,
+Geometric Mean (ann),0.114%,,,,,,,,,,,,,,,
+Sigma (ann),2.656%,,,,,,,,,,,,,,,
+Average Drawdown,2.781%,,,,,Arithmetic Mean (ann),Geometric Mean (ann),Sigma (ann),Average Drawdown,Max Drawdown,Alpha (ann),Alpha SE (ann),Beta,Beta SE,Sharpe Ratio (ann),Information Ratio (ann)
+Max Drawdown,8.381%,,,,,0.15%,0.11%,2.66%,2.78%,8.38%,0.14%,0.60%,0.15%,1.01%,5.62%,5.27%
+Alpha (ann),0.140%,,,,,,,,,,,,,,,
+Alpha SE (ann),0.564%,,,,,,,,,,,,,,,
+Alpha (CI),"[-0.424, 0.704]",,,,,,,,,,,,,,,
+Beta,0.001,,,,,,,,,,,,,,,
+Beta SE,1.009%,,,,,,,,,,,,,,,
+Beta (CI),"[-0.009, 0.011]",,,,,,,,,,,,,,,
+Sharpe Ratio (ann),0.056,,,,,,,,,,,,,,,
+Information Ratio (ann),0.053,,,,,,,,,,,,,,,
